@@ -36,10 +36,6 @@ const CONFIG = {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
-        },
-        fourth: {
-            text: "This took me so long cause it's ny first time😆"
-            ThxBtn: "Thank you so much I love you"
     },
 
     // Love meter messages
